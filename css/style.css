@@ -461,7 +461,7 @@ color: var(--color-dark-m);
 }
 .parting__content {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
 
