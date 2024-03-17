@@ -621,7 +621,7 @@ a {
     background: var(--color-light-s);
     padding-bottom: 12px;
     margin-bottom: 60px;
-    transition: all 3s;
+    transition: all 0.3s;
 }
 
 .friend__option:hover {
