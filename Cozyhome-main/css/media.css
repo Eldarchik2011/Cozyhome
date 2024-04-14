@@ -1,0 +1,16 @@
+@media(max-width: 768px) {
+    .container {
+        max-width: 748px;
+    }
+
+    /* ширина контейнера по макету 708 + 40 пэддинги */
+
+
+
+
+    .about__content {
+        flex-direction: column-reverse;
+        align-items: center;
+a
+    }
+}
